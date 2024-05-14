@@ -21,4 +21,3 @@ fn main() {
         if args.omit_newline { "" } else { "\n" }
     )
 }
-
